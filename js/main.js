@@ -29,7 +29,7 @@ cv.addEventListener('click', () => {
   }).then((result) => {
     /* Read more about handling dismissals below */
     if (result.dismiss === Swal.DismissReason.timer) {
-      window.open("../imagenes/hola.txthola.txt", '_blank').focus();
+      window.open("../imagenes/hola.txt", '_blank').focus();
     }
   })
 })
