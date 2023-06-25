@@ -15,7 +15,7 @@ darkModeToggle.addEventListener('click', () => {
 cv.addEventListener('click', () => {
   let timerInterval
   Swal.fire({
-    title: '¡Hey un momento por favor!',
+    title: '¡Hey un momento por favor1!',
     html: 'Gracias por su interés.',
     timer: 2000,
     timerProgressBar: true,
